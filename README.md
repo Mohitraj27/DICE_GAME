@@ -10,5 +10,6 @@ the game if both are equal then the game is draw!!
 - if condition in the code will check  your dice value with computer dice value.
 - Switch Case is used to check the user's choice to roll the dice.
 
+![image](https://user-images.githubusercontent.com/87956374/148015274-2bd0ff19-cc3f-4437-a4f0-5c15f4f141c7.png)
 
-![Screenshot (347)](https://user-images.githubusercontent.com/87956374/142446706-a3b6efd7-19bf-40da-952f-cd2250c0b046.png)
+
